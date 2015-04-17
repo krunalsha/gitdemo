@@ -1,7 +1,7 @@
 <html>
 <body>
 <li>Krunal</li>
-<li>Mr. Namit</li>
+<li>Namit Kewat</li>
 <li>Gaurav</li>
 </body>
 </html>
